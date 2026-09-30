@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Teynur 👋
 
-<!--
-**teynyuse/teynyuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer · Interactive Media · Creative Technology
 
-Here are some ideas to get you started:
+I'm a developer and Interactive Media Development student based in Ghent, Belgium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building digital experiences that combine **development, interaction and design** — from mobile apps and web platforms to interactive installations.
+
+Alongside my studies, I work full-time at **FOD Financiën**, where I currently work with SQL and enterprise applications.
+
+---
+
+## Currently working on
+
+### Vree
+A mobile app that helps friends find moments when they're free at the same time.
+
+**Tech**
+React Native · Expo · TypeScript · Supabase
+
+### Fossielenspoor
+An interactive museum installation built for *Huis van Kina*.
+
+**Tech**
+React · Vite · Raspberry Pi · RFID · ESP32 · LEDs
+
+### Portfolio
+My personal portfolio where I document projects, experiments and my journey as a developer.
+
+[teynuryuseinov.be](https://teynuryuseinov.be)
+
+---
+
+## Tech I work with
+
+**Frontend**
+React · React Native · Next.js · TypeScript · JavaScript
+
+**Backend & Data**
+Node.js · Express · Supabase · PostgreSQL · SQL
+
+**Creative Tech**
+Raspberry Pi · ESP32 · Arduino · RFID · Unreal Engine
+
+**Tools**
+Git · GitHub · Figma · VS Code
+
+---
+
+## A little more about me
+
+- 🎓 Bachelor Interactive Media Development at Arteveldehogeschool
+- 💼 Developer at FOD Financiën
+- 📍 Ghent, Belgium
+- 🧩 Interested in creative development, interactive experiences and digital products
+
+---
+
+## Selected projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Vree** | Find overlapping free time with friends | React Native, Supabase |
+| **Fossielenspoor** | Interactive museum experience | React, Raspberry Pi, RFID |
+| **Portfolio** | Personal portfolio & journal | Next.js, TypeScript |
+
+---
+
+## Find me online
+
+🌐 [teynuryuseinov.be](https://teynuryuseinov.be)  
+💼 [LinkedIn](https://www.linkedin.com/in/teynur-yuseinov-22741919a/)
