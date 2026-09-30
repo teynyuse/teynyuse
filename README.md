@@ -10,15 +10,6 @@ Alongside my studies, I work full-time at **FOD Financiën**, where I currently 
 
 ---
 
-## Currently working on
-
-### Vree
-A mobile app that helps friends find moments when they're free at the same time.
-
-**Tech**
-React Native · Expo · TypeScript · Supabase
----
-
 ## Tech I work with
 
 **Frontend**
