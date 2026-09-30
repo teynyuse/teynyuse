@@ -17,18 +17,6 @@ A mobile app that helps friends find moments when they're free at the same time.
 
 **Tech**
 React Native · Expo · TypeScript · Supabase
-
-### Fossielenspoor
-An interactive museum installation built for *Huis van Kina*.
-
-**Tech**
-React · Vite · Raspberry Pi · RFID · ESP32 · LEDs
-
-### Portfolio
-My personal portfolio where I document projects, experiments and my journey as a developer.
-
-[teynuryuseinov.be](https://teynuryuseinov.be)
-
 ---
 
 ## Tech I work with
@@ -50,7 +38,7 @@ Git · GitHub · Figma · VS Code
 ## A little more about me
 
 - 🎓 Bachelor Interactive Media Development at Arteveldehogeschool
-- 💼 Developer at FOD Financiën
+- 💼 SQL Developer at FOD Financiën
 - 📍 Ghent, Belgium
 - 🧩 Interested in creative development, interactive experiences and digital products
 
@@ -60,7 +48,6 @@ Git · GitHub · Figma · VS Code
 
 | Project | Description | Stack |
 |---|---|---|
-| **Vree** | Find overlapping free time with friends | React Native, Supabase |
 | **Fossielenspoor** | Interactive museum experience | React, Raspberry Pi, RFID |
 | **Portfolio** | Personal portfolio & journal | Next.js, TypeScript |
 
