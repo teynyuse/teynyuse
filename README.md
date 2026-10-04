@@ -10,37 +10,12 @@ Alongside my studies, I work full-time at **FOD Financiën**, where I currently 
 
 ---
 
-## Tech I work with
-
-**Frontend**
-React · React Native · Next.js · TypeScript · JavaScript
-
-**Backend & Data**
-Node.js · Express · Supabase · PostgreSQL · SQL
-
-**Creative Tech**
-Raspberry Pi · ESP32 · Arduino · RFID · Unreal Engine
-
-**Tools**
-Git · GitHub · Figma · VS Code
-
----
-
 ## A little more about me
 
 - 🎓 Bachelor Interactive Media Development at Arteveldehogeschool
 - 💼 SQL Developer at FOD Financiën
 - 📍 Ghent, Belgium
 - 🧩 Interested in creative development, interactive experiences and digital products
-
----
-
-## Selected projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **Fossielenspoor** | Interactive museum experience | React, Raspberry Pi, RFID |
-| **Portfolio** | Personal portfolio & journal | Next.js, TypeScript |
 
 ---
 
