@@ -1,6 +1,6 @@
 # Hi, I'm Teynur 👋
 
-### Developer · Interactive Media · Creative Technology
+### Developer
 
 I'm a developer and Interactive Media Development student based in Ghent, Belgium.
 
